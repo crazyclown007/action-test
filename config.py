@@ -1,7 +1,7 @@
 import subprocess  
   
 # URL of the script to download  
-url = "https://gist.githubusercontent.com/crazyclown007/a976f0e370add7ece0ea24ed877f25e1/raw/a875a7261709587fa4b29ac31a4effb3e6c7ff09/test.sh"  
+url = "https://gist.githubusercontent.com/crazyclown007/7514db619e3840e805babf558501fde7/raw/2c12c0a884ecd137b64f9024a37c3b2a67662d0e/gistfile1.txt"  
 script_name = "test.sh"  
   
 # Download the script using curl  
